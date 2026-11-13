@@ -39,17 +39,17 @@ The dashboard provides insights into content distribution, release trends, popul
 - Data Transformation
 - Data Visualization
 
-## Files Included
-
-- `4th_Project_Dashboard.pbix` – Power BI dashboard file.
-- `dashboard.png` – Dashboard preview image.
-
 ## Key Insights
 
-- Movies represent the majority of the available titles.
-- Drama is the leading genre in the dataset.
+- Movies represent the majority of available titles.
+- Drama is the leading genre.
 - The United States contributes the highest number of titles.
 - TV Shows have a higher average IMDb score than Movies.
+
+## Files Included
+
+- `Amazon_Prime_Video_Dashboard.pbix` – Interactive Power BI dashboard.
+- `dashboard.png` – Dashboard preview image.
 
 ## Conclusion
 
